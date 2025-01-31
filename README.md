@@ -18,10 +18,6 @@
 ## 📊 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickkkKing&layout=compact&theme=radical)
 
-## 🛠️ GitHub Activity  
-[![PatrickkkKing's Activity](https://activity-graph.herokuapp.com/graph?username=PatrickkkKing&theme=radical)](https://github.com/PatrickkkKing)
-
-
 ## 🤝 Connect with Me  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muklas_gilbert) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muklas-adi-putra-694362293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 
