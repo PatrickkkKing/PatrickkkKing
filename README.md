@@ -6,20 +6,24 @@
 - 💬 Ask me about Decision Making Matriks
 - 📫 How to reach me muklasputra222@gmail.com
 
-## 🏆 GitHub Trophy  
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=PatrickkkKing&theme=radical&row=1&column=5)](https://github.com/PatrickkkKing)
 
 ## 🛠️ Tech Stack  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatrickkkKing&show_icons=true&theme=radical) ![GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=PatrickkkKing&theme=radical)
+### 📈 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatrickkkKing&show_icons=true&theme=radical) ![GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=PatrickkkKing&theme=radical) 
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=PatrickkkKing&theme=radical&row=1&column=5)](https://github.com/PatrickkkKing)
 
 ## 📊 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickkkKing&layout=compact&theme=radical)
 
 ## 🤝 Connect with Me  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muklas_gilbert) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muklas-adi-putra-694362293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+
+## ✍️ Random Quote
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF2D20&lines=Better+to+use+AI+for+your+thesis,+Than+hiring+a+ghostwriter!&width=1000)](https://github.com/PatrickkkKing)
+
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PatrickkkKing)
 
